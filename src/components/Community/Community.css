@@ -1,0 +1,11 @@
+.top-banner{
+    width: 100%;
+    background: url('../Assests/bg1.png') no-repeat;
+    background-size: cover;
+    padding: 10rem 9.380rem;
+    opacity: 0.5;
+    background-color: transparent;
+}
+.name-effect{
+    color: white;
+}

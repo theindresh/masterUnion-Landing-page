@@ -1,0 +1,33 @@
+.close-look {
+    margin-left: 6rem;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #8e8e8e;
+}
+
+.card-body {
+    background: black;
+}
+
+.card-text {
+    color: #8e8e8e;
+}
+
+.card-title {
+    color: white;
+}
+
+.arrow-direction {
+   padding: 10px;
+    background-color: transparent;
+    border-radius: 50%;
+    margin: 5px;
+    display: inline;
+    border: 2px solid white;
+}
+.arrow-direction:hover{
+    background-color: #8e8e8e;
+    cursor: pointer;
+}
